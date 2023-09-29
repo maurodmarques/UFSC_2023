@@ -12,7 +12,7 @@
             "rejectUnauthorized": true,
             "resultLimit": 100,
             "timeoutSecs": 60,
-            "user": "xyz_local",
+            "user": "mdm_local",
             "password": ""
         },
         {
